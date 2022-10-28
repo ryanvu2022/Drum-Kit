@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #3D8361;
+  background-color: #5837D0;
 }
 
 h1 {
@@ -48,18 +48,9 @@ footer {
   margin: 10% auto;
 }
 
-.game-over {
-  background-color: red;
-  opacity: 0.8;
-}
-
 .pressed {
   box-shadow: 0 3px 4px 0 #DBEDF3;
   opacity: 0.5;
-}
-
-.red {
-  color: red;
 }
 
 .drum {
@@ -69,7 +60,7 @@ footer {
   font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
-  color: #1C6758;
+  color: #5837D0;
   text-shadow: 3px 0 #D6CDA4;
   border-radius: 15px;
   display: inline-block;
